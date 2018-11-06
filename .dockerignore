@@ -1,0 +1,9 @@
+*.swp
+.git
+.gitignore
+buildspec.yml
+.DS_Store
+README.md
+Dockerfile
+ecs
+eks
